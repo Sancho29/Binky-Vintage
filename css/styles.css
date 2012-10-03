@@ -16,3 +16,31 @@ body {
 	background: #FFF no-repeat;
 
 }
+a {
+	color: pink;
+	text-decoration: none;
+	}
+a:hover {
+	color: red;
+	}
+h1 {
+	font-size: 70px;
+	font-weight: 700;
+	line-height: 55px;
+}
+small {
+	font-size: 11px;
+	}
+p {
+	margin-top: 10px;
+	color: #333;
+	}
+.container {
+	width: 100%;
+	}
+	
+	.centre {
+		margin: 50px auto;
+		width: 330px;
+		}
+		
