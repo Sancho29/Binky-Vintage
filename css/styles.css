@@ -42,5 +42,6 @@ p {
 	.centre {
 		margin: 50px auto;
 		width: 330px;
+		padding: 0 15px;
 		}
 		
